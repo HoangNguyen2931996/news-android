@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/header_nav"
+    >
+    <ImageView
+        android:id="@+id/imgHeader"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/news"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imgHeader"
+        android:text="Design by Goodboys team"
+        android:textStyle="bold"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="13sp"
+        />
+</RelativeLayout>

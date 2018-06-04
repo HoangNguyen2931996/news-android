@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "50833963855",
+    "firebase_url": "https://tinhangngay-27c3c.firebaseio.com",
+    "project_id": "tinhangngay-27c3c",
+    "storage_bucket": "tinhangngay-27c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50833963855:android:9907daa60315900e",
+        "android_client_info": {
+          "package_name": "com.example.kutudp.tinhangngay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50833963855-pug1j6glk10jaj4c59lvge41k1savmmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZWaYGlzLqFL3y9HHTQuG2cgAZxC_h68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
